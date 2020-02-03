@@ -1,0 +1,2 @@
+# javaAlgorithm
+Record java algorithm
