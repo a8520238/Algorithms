@@ -1,4 +1,5 @@
 public class characterSeach {
+    
 
     private boolean[][] marked;
 
