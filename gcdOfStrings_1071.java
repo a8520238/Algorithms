@@ -9,6 +9,7 @@
 
 // 示例 2：
 
+
 // 输入：str1 = "ABABAB", str2 = "ABAB"
 // 输出："AB"
 
